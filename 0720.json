@@ -154,7 +154,7 @@
 //{"key":"csp_biubiu_不开VIP","name":"🥒不开VIP(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xzhg1234.github.io/freedom//MaooXB2/不开VIP.json"},
 //{"key":"csp_biubiu_伊雪湾","name":"🥒伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://xzhg1234.github.io/freedom//MaooXB2/伊雪湾.json"},
 
-
+"drives": [{"server":"","15369087979":"","29771231@xie":"","type":"webdav"}]
 
 ## XPath系列
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xzhg1234.github.io/freedom//MaooXP/duboku.json"},
